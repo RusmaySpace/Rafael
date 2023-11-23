@@ -5,7 +5,6 @@ import psutil
 import platform
 from pathlib import Path
 
-
 init(autoreset=True)
 
 def get_size (bytes, suffix="B"):
